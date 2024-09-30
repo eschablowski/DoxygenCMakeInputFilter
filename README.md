@@ -22,6 +22,7 @@ endfunction(pyexample_test args)
 ```
 
 This gets parsed to:
+```python
 ## @package cmake
 #  Documentation for this module.
 #
